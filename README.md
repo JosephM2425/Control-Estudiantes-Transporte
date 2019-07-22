@@ -22,6 +22,12 @@ Aplicación Web para el control del transporte Estudiantil
 3-Sacar reportes en PDF
 
 
+#Base de datos
+Tablas que tienes que crear
+buseta1(agregar más si es necesario) buseta2... buseta3... etc
+choferes(conductores del transporte)
+usuarios(administradores)
+
 Aplicación WEB - Creada por Joseph Murillo 
 
 Cualquier consulta, contactarme con mis redes sociales o a mi correo electrónico
