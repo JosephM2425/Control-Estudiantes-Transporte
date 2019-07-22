@@ -20,3 +20,9 @@ Aplicación Web para el control del transporte Estudiantil
 1-Loguearse como administrador o registrarse(OJO el id se asigna directamente desde la base de datos)
 2-Entrar en el panel de control y explorar las diversas opciones
 3-Sacar reportes en PDF
+
+
+Aplicación WEB - Creada por Joseph Murillo 
+
+Cualquier consulta, contactarme con mis redes sociales o a mi correo electrónico
+josephmurillo2425@gmail.com 
