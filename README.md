@@ -30,5 +30,5 @@ usuarios(administradores)
 
 Aplicación WEB - Creada por Joseph Murillo 
 
-Cualquier consulta, contactarme con mis redes sociales o a mi correo electrónico
+Cualquier consulta, con mis redes sociales o a mi correo electrónico
 josephmurillo2425@gmail.com 
